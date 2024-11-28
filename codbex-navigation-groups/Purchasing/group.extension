@@ -1,0 +1,5 @@
+{
+    "module": "/codbex-navigation-groups/Purchasing/service.js",
+    "extensionPoint": "dashboard-navigation-groups",
+    "description": "Purchasing Navigation Group"
+}

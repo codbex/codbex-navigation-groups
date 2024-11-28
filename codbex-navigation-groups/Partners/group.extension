@@ -1,0 +1,5 @@
+{
+    "module": "/codbex-navigation-groups/Partners/service.js",
+    "extensionPoint": "dashboard-navigation-groups",
+    "description": "Partners Navigation Group"
+}

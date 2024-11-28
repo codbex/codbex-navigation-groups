@@ -1,0 +1,5 @@
+{
+    "module": "/codbex-navigation-groups/Products/service.js",
+    "extensionPoint": "dashboard-navigation-groups",
+    "description": "Products Navigation Group"
+}
