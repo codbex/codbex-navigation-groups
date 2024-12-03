@@ -1,0 +1,34 @@
+name: Release - Application
+
+on:
+  workflow_dispatch:
+    inputs:
+      release-version:
+        description: Release Version
+        required: true
+        default: 1.0.0
+
+run-name: 'version set to ${{ inputs.release-version }} for release'
+
+jobs:
+  modules:
+    uses: codbex/codbex-infra/.github/workflows/module-release.yaml@main
+    with:
+      packages: codbex-navigation-groups
+      packages-build: codbex-navigation-groups
+      release-version: ${{ inputs.release-version }}
+      release-content: |
+        ## codbex-navigation-groups - ${{ inputs.release-version }}
+  
+        Order Navigation Groups - Module
+  
+        ## Installation
+  
+        ```
+        npm install @codbex/codbex-navigation-groups@${{ inputs.release-version }}
+        ```
+  
+        ## Access points:
+  
+        - N/A
+    secrets: inherit
