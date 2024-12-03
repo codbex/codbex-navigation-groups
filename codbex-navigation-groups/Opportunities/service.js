@@ -1,7 +1,8 @@
 const groupData = {
     id: 'opportunities-navigation-group',
     label: "Opportunities",
-    icon: "head-side"
+    icon: "head-side",
+    order: 100
 };
 
 function getGroup() {

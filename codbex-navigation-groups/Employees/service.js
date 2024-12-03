@@ -1,7 +1,8 @@
 const groupData = {
     id: 'employees-navigation-group',
     label: "Employees",
-    icon: "company-view"
+    icon: "company-view",
+    order: 700
 };
 
 function getGroup() {

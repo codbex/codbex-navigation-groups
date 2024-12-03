@@ -1,7 +1,8 @@
 const groupData = {
     id: 'refference-data-navigation-group',
     label: "Refference Data",
-    icon: "cog"
+    icon: "cog",
+    order: 1400
 };
 
 function getGroup() {

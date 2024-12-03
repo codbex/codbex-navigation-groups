@@ -1,7 +1,8 @@
 const groupData = {
     id: 'products-navigation-group',
     label: "Products",
-    icon: "product"
+    icon: "product",
+    order: 500
 };
 
 function getGroup() {

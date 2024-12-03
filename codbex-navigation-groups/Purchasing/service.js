@@ -1,7 +1,8 @@
 const groupData = {
     id: 'purchasing-navigation-group',
     label: "Purchasing",
-    icon: "credit-card"
+    icon: "credit-card",
+    order: 300
 };
 
 function getGroup() {

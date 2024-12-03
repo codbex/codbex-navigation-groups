@@ -1,7 +1,8 @@
 const groupData = {
     id: 'assets-navigation-group',
     label: "Assets",
-    icon: "it-host"
+    icon: "it-host",
+    order: 1000
 };
 
 function getGroup() {

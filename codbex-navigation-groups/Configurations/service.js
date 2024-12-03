@@ -1,7 +1,8 @@
 const groupData = {
     id: 'configurations-navigation-group',
     label: "Configurations",
-    icon: "wrench"
+    icon: "wrench",
+    order: 1300
 };
 
 function getGroup() {

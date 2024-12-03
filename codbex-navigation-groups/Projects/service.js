@@ -1,7 +1,8 @@
 const groupData = {
     id: 'projects-navigation-group',
     label: "Projects",
-    icon: "book"
+    icon: "book",
+    order: 1100
 };
 
 function getGroup() {
