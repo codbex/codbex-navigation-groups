@@ -1,7 +1,7 @@
 const groupData = {
     id: 'sales-navigation-group',
     label: "Sales",
-    icon: "currency"
+    icon: "tag-alt"
 };
 
 function getGroup() {
