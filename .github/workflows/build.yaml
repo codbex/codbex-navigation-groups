@@ -9,5 +9,5 @@ jobs:
   modules:
     uses: codbex/codbex-infra/.github/workflows/module-build.yaml@main
     with:
-      packages-build: codbex-order-inventory-ext
+      packages-build: codbex-navigation-groups
     secrets: inherit
