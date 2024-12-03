@@ -1,0 +1,5 @@
+{
+    "module": "/codbex-navigation-groups/Salaries/service.js",
+    "extensionPoint": "dashboard-navigation-groups",
+    "description": "Salaries Navigation Group"
+}
