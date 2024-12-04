@@ -1,7 +1,7 @@
 const groupData = {
     id: 'salaries-navigation-group',
     label: "Salaries",
-    icon: "moneybag",
+    icon: "wallet",
     order: 800
 };
 

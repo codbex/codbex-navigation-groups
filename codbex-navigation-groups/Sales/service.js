@@ -1,7 +1,7 @@
 const groupData = {
     id: 'sales-navigation-group',
     label: "Sales",
-    icon: "tag-alt",
+    icon: "tag",
     order: 200
 };
 
