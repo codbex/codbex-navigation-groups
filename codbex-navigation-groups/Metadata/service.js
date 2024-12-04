@@ -1,7 +1,7 @@
 const groupData = {
-    id: 'refference-data-navigation-group',
-    label: "Refference Data",
-    icon: "cog",
+    id: 'metadata-navigation-group',
+    label: "Metadata",
+    icon: "folder",
     order: 1400
 };
 
