@@ -1,5 +1,0 @@
-{
-    "module": "/codbex-navigation-groups/Metadata/service.js",
-    "extensionPoint": "dashboard-navigation-groups",
-    "description": "Metadata Navigation Group"
-}
