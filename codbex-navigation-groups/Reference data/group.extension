@@ -1,0 +1,5 @@
+{
+    "module": "/codbex-navigation-groups/Reference data/service.js",
+    "extensionPoint": "dashboard-navigation-groups",
+    "description": "Reference Data Navigation Group"
+}
