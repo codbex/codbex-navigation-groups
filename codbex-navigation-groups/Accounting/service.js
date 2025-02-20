@@ -1,7 +1,7 @@
 const groupData = {
-    id: 'accounts-navigation-group',
+    id: 'accounting-navigation-group',
     label: "Accounting",
-    icon: "accounting-document-verification",
+    icon: "building",
     order: 400
 };
 
