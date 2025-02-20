@@ -2,7 +2,7 @@ const groupData = {
     id: 'products-navigation-group',
     label: "Products",
     icon: "product",
-    order: 500
+    order: 600
 };
 
 function getGroup() {
