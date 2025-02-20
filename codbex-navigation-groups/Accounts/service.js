@@ -1,8 +1,8 @@
 const groupData = {
-    id: 'partners-navigation-group',
-    label: "Partners",
-    icon: "customer-and-contacts",
-    order: 1300
+    id: 'accounts-navigation-group',
+    label: "Accounting",
+    icon: "accounting-document-verification",
+    order: 400
 };
 
 function getGroup() {

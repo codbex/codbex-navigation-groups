@@ -2,7 +2,7 @@ const groupData = {
     id: 'inventory-navigation-group',
     label: "Inventory",
     icon: "retail-store",
-    order: 400
+    order: 500
 };
 
 function getGroup() {

@@ -2,7 +2,7 @@ const groupData = {
     id: 'salaries-navigation-group',
     label: "Salaries",
     icon: "wallet",
-    order: 800
+    order: 700
 };
 
 function getGroup() {

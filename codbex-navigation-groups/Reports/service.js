@@ -2,7 +2,7 @@ const groupData = {
     id: 'reports-navigation-group',
     label: "Reports",
     icon: "area-chart",
-    order: 1200
+    order: 800
 };
 
 function getGroup() {
