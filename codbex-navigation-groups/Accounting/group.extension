@@ -1,5 +1,5 @@
 {
-    "module": "/codbex-navigation-groups/Accounting/service.js",
-    "extensionPoint": "dashboard-navigation-groups",
+    "module": "/codbex-navigation-groups/Accounting/config.js",
+    "extensionPoint": "application-perspectives",
     "description": "Accounts Navigation Group"
 }

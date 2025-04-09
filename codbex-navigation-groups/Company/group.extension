@@ -1,5 +1,5 @@
 {
-    "module": "/codbex-navigation-groups/Company/service.js",
-    "extensionPoint": "dashboard-navigation-groups",
+    "module": "/codbex-navigation-groups/Company/config.js",
+    "extensionPoint": "application-perspectives",
     "description": "Opportunities Navigation Group"
 }
