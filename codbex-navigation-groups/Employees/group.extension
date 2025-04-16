@@ -1,5 +1,5 @@
 {
-    "module": "/codbex-navigation-groups/Employees/service.js",
-    "extensionPoint": "dashboard-navigation-groups",
+    "module": "/codbex-navigation-groups/Employees/config.js",
+    "extensionPoint": "application-perspectives",
     "description": "Employees Navigation Group"
 }

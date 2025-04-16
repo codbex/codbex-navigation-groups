@@ -1,5 +1,5 @@
 {
-    "module": "/codbex-navigation-groups/Reference data/service.js",
-    "extensionPoint": "dashboard-navigation-groups",
+    "module": "/codbex-navigation-groups/Reference data/config.js",
+    "extensionPoint": "application-perspectives",
     "description": "Reference Data Navigation Group"
 }

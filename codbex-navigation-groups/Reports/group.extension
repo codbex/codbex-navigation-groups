@@ -1,5 +1,0 @@
-{
-    "module": "/codbex-navigation-groups/Reports/service.js",
-    "extensionPoint": "dashboard-navigation-groups",
-    "description": "Reports Navigation Group"
-}
