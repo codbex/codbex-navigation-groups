@@ -1,7 +1,9 @@
-# codbex-navigation-groups
-All navigation groups for a Codbex Application
+# <img src="https://www.codbex.com/icon.svg" width="32" style="vertical-align: middle;"> codbex-navigation-groups
 
-## Local Development with Docker
+## 📖 Table of Contents
+* [🐳 Local Development with Docker](#-local-development-with-docker)
+
+## 🐳 Local Development with Docker
 
 When running this project inside the codbex Atlas Docker image, you must provide authentication for installing dependencies from GitHub Packages.
 1. Create a GitHub Personal Access Token (PAT) with `read:packages` scope.
